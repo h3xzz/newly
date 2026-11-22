@@ -1,4 +1,4 @@
-name: Simple Artifact Example
+name: Simple Artifact Examplef
 
 on:
   push:
